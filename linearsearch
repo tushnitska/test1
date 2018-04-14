@@ -4,4 +4,4 @@ for i in mas:
     i==to_find
     if True:
         print("Find, it`s on "+str(mas.index(to_find)+1)+" place")
-        break
+        
